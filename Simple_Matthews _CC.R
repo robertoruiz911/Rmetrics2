@@ -1,3 +1,5 @@
+##Simple Matthews correlation coefficient for comparison between two binary vectors.
+
 
 
 mcc <- function (actual, predicted)
