@@ -1,4 +1,4 @@
-## Mathew Coefficient for XGB from Laurae ##
+## Matthews correlation coefficient  for XGB from Laurae ##
 ## Necesary maximize=TRUE
 
 
